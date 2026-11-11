@@ -1,0 +1,201 @@
+Age,Income,SpendingScore,Cluster,Segment
+19,15,39,4,Low-Income Enthusiasts
+21,15,81,4,Low-Income Enthusiasts
+20,16,6,5,Budget Savers
+23,16,77,4,Low-Income Enthusiasts
+31,17,40,5,Budget Savers
+22,17,76,4,Low-Income Enthusiasts
+35,18,6,5,Budget Savers
+23,18,94,4,Low-Income Enthusiasts
+64,19,3,5,Budget Savers
+30,19,72,4,Low-Income Enthusiasts
+67,19,14,5,Budget Savers
+35,19,99,4,Low-Income Enthusiasts
+58,20,15,5,Budget Savers
+24,20,77,4,Low-Income Enthusiasts
+37,20,13,5,Budget Savers
+22,20,79,4,Low-Income Enthusiasts
+35,21,35,5,Budget Savers
+20,21,66,4,Low-Income Enthusiasts
+52,23,29,5,Budget Savers
+35,23,98,4,Low-Income Enthusiasts
+35,24,35,5,Budget Savers
+25,24,73,4,Low-Income Enthusiasts
+46,25,5,5,Budget Savers
+31,25,73,4,Low-Income Enthusiasts
+54,28,14,5,Budget Savers
+29,28,82,4,Low-Income Enthusiasts
+45,28,32,5,Budget Savers
+35,28,61,4,Low-Income Enthusiasts
+40,29,31,5,Budget Savers
+23,29,87,4,Low-Income Enthusiasts
+60,30,4,5,Budget Savers
+21,30,73,4,Low-Income Enthusiasts
+53,33,4,5,Budget Savers
+18,33,92,4,Low-Income Enthusiasts
+49,33,14,5,Budget Savers
+21,33,81,4,Low-Income Enthusiasts
+42,34,17,5,Budget Savers
+30,34,73,4,Low-Income Enthusiasts
+36,37,26,5,Budget Savers
+20,37,75,4,Low-Income Enthusiasts
+65,38,35,0,Older Average Shoppers
+24,38,92,4,Low-Income Enthusiasts
+48,39,36,5,Budget Savers
+31,39,61,1,Young Average Shoppers
+49,39,28,5,Budget Savers
+24,39,65,4,Low-Income Enthusiasts
+50,40,55,0,Older Average Shoppers
+27,40,47,1,Young Average Shoppers
+29,40,42,1,Young Average Shoppers
+31,40,42,1,Young Average Shoppers
+49,42,52,0,Older Average Shoppers
+33,42,60,1,Young Average Shoppers
+31,43,54,1,Young Average Shoppers
+59,43,60,0,Older Average Shoppers
+50,43,45,0,Older Average Shoppers
+47,43,41,0,Older Average Shoppers
+51,44,50,0,Older Average Shoppers
+69,44,46,0,Older Average Shoppers
+27,46,51,1,Young Average Shoppers
+53,46,46,0,Older Average Shoppers
+70,46,56,0,Older Average Shoppers
+19,46,55,1,Young Average Shoppers
+67,47,52,0,Older Average Shoppers
+54,47,59,0,Older Average Shoppers
+63,48,51,0,Older Average Shoppers
+18,48,59,1,Young Average Shoppers
+43,48,50,0,Older Average Shoppers
+68,48,48,0,Older Average Shoppers
+19,48,59,1,Young Average Shoppers
+32,48,47,1,Young Average Shoppers
+70,49,55,0,Older Average Shoppers
+47,49,42,0,Older Average Shoppers
+60,50,49,0,Older Average Shoppers
+60,50,56,0,Older Average Shoppers
+59,54,47,0,Older Average Shoppers
+26,54,54,1,Young Average Shoppers
+45,54,53,0,Older Average Shoppers
+40,54,48,1,Young Average Shoppers
+23,54,52,1,Young Average Shoppers
+49,54,42,0,Older Average Shoppers
+57,54,51,0,Older Average Shoppers
+38,54,55,1,Young Average Shoppers
+67,54,41,0,Older Average Shoppers
+46,54,44,0,Older Average Shoppers
+21,54,57,1,Young Average Shoppers
+48,54,46,0,Older Average Shoppers
+55,57,58,0,Older Average Shoppers
+22,57,55,1,Young Average Shoppers
+34,58,60,1,Young Average Shoppers
+50,58,46,0,Older Average Shoppers
+68,59,55,0,Older Average Shoppers
+18,59,41,1,Young Average Shoppers
+48,60,49,0,Older Average Shoppers
+40,60,40,1,Young Average Shoppers
+32,60,42,1,Young Average Shoppers
+24,60,52,1,Young Average Shoppers
+47,60,47,0,Older Average Shoppers
+27,60,50,1,Young Average Shoppers
+48,61,42,0,Older Average Shoppers
+20,61,49,1,Young Average Shoppers
+23,62,41,1,Young Average Shoppers
+49,62,48,0,Older Average Shoppers
+67,62,59,0,Older Average Shoppers
+26,62,55,1,Young Average Shoppers
+49,62,56,0,Older Average Shoppers
+21,62,42,1,Young Average Shoppers
+66,63,50,0,Older Average Shoppers
+54,63,46,0,Older Average Shoppers
+68,63,43,0,Older Average Shoppers
+66,63,48,0,Older Average Shoppers
+65,63,52,0,Older Average Shoppers
+19,63,54,1,Young Average Shoppers
+38,64,42,1,Young Average Shoppers
+19,64,46,1,Young Average Shoppers
+18,65,48,1,Young Average Shoppers
+19,65,50,1,Young Average Shoppers
+63,65,43,0,Older Average Shoppers
+49,65,59,0,Older Average Shoppers
+51,67,43,0,Older Average Shoppers
+50,67,57,0,Older Average Shoppers
+27,67,56,1,Young Average Shoppers
+38,67,40,1,Young Average Shoppers
+40,69,58,1,Young Average Shoppers
+39,69,91,3,Premium Big Spenders
+23,70,29,1,Young Average Shoppers
+31,70,77,3,Premium Big Spenders
+43,71,35,2,Careful High-Earners
+40,71,95,3,Premium Big Spenders
+59,71,11,2,Careful High-Earners
+38,71,75,3,Premium Big Spenders
+47,71,9,2,Careful High-Earners
+39,71,75,3,Premium Big Spenders
+25,72,34,1,Young Average Shoppers
+31,72,71,3,Premium Big Spenders
+20,73,5,2,Careful High-Earners
+29,73,88,3,Premium Big Spenders
+44,73,7,2,Careful High-Earners
+32,73,73,3,Premium Big Spenders
+19,74,10,1,Young Average Shoppers
+35,74,72,3,Premium Big Spenders
+57,75,5,2,Careful High-Earners
+32,75,93,3,Premium Big Spenders
+28,76,40,1,Young Average Shoppers
+32,76,87,3,Premium Big Spenders
+25,77,12,2,Careful High-Earners
+28,77,97,3,Premium Big Spenders
+48,77,36,2,Careful High-Earners
+32,77,74,3,Premium Big Spenders
+34,78,22,2,Careful High-Earners
+34,78,90,3,Premium Big Spenders
+43,78,17,2,Careful High-Earners
+39,78,88,3,Premium Big Spenders
+44,78,20,2,Careful High-Earners
+38,78,76,3,Premium Big Spenders
+47,78,16,2,Careful High-Earners
+27,78,89,3,Premium Big Spenders
+37,78,1,2,Careful High-Earners
+30,78,78,3,Premium Big Spenders
+34,78,1,2,Careful High-Earners
+30,78,73,3,Premium Big Spenders
+56,79,35,0,Older Average Shoppers
+29,79,83,3,Premium Big Spenders
+19,81,5,2,Careful High-Earners
+31,81,93,3,Premium Big Spenders
+50,85,26,2,Careful High-Earners
+36,85,75,3,Premium Big Spenders
+42,86,20,2,Careful High-Earners
+33,86,95,3,Premium Big Spenders
+36,87,27,2,Careful High-Earners
+32,87,63,3,Premium Big Spenders
+40,87,13,2,Careful High-Earners
+28,87,75,3,Premium Big Spenders
+36,87,10,2,Careful High-Earners
+36,87,92,3,Premium Big Spenders
+52,88,13,2,Careful High-Earners
+30,88,86,3,Premium Big Spenders
+58,88,15,2,Careful High-Earners
+27,88,69,3,Premium Big Spenders
+59,93,14,2,Careful High-Earners
+35,93,90,3,Premium Big Spenders
+37,97,32,2,Careful High-Earners
+32,97,86,3,Premium Big Spenders
+46,98,15,2,Careful High-Earners
+29,98,88,3,Premium Big Spenders
+41,99,39,2,Careful High-Earners
+30,99,97,3,Premium Big Spenders
+54,101,24,2,Careful High-Earners
+28,101,68,3,Premium Big Spenders
+41,103,17,2,Careful High-Earners
+36,103,85,3,Premium Big Spenders
+34,103,23,2,Careful High-Earners
+32,103,69,3,Premium Big Spenders
+33,113,8,2,Careful High-Earners
+38,113,91,3,Premium Big Spenders
+47,120,16,2,Careful High-Earners
+35,120,79,3,Premium Big Spenders
+45,126,28,2,Careful High-Earners
+32,126,74,3,Premium Big Spenders
+32,137,18,2,Careful High-Earners
+30,137,83,3,Premium Big Spenders

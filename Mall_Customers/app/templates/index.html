@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mall Customer Segmentation</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Mall Customer Segmentation</h1>
+    <p class="sub">Enter a customer's details to find their shopper segment (K-Means, 6 clusters).</p>
+
+    <form method="POST">
+      <label>Age</label>
+      <input type="number" name="age" min="18" max="100" required value="{{ request.form.age }}">
+      <label>Annual Income (k$)</label>
+      <input type="number" name="income" min="0" max="500" required value="{{ request.form.income }}">
+      <label>Spending Score (1-100)</label>
+      <input type="number" name="score" min="1" max="100" required value="{{ request.form.score }}">
+      <button type="submit">Find Segment</button>
+    </form>
+
+    {% if error %}<div class="box error">{{ error }}</div>{% endif %}
+    {% if result %}
+    <div class="box result">
+      <h2>{{ result.segment }}</h2>
+      <p><strong>Suggested marketing:</strong> {{ result.action }}</p>
+    </div>
+    {% endif %}
+
+    <h3>Segments Overview</h3>
+    <img src="{{ url_for('static', filename='segments.png') }}" alt="Customer segments">
+    <h3>Choosing k</h3>
+    <img src="{{ url_for('static', filename='elbow.png') }}" alt="Elbow and silhouette">
+  </div>
+</body>
+</html>
